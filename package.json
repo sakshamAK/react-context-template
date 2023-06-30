@@ -3,5 +3,20 @@
   "version": "1.0.0",
   "bin": {
     "react-context-template": "./index.js"
-  }
+  },
+  "description": "creates a react template with premade folder structure for pages and components and a premade context file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshamAK/react-context-template.git"
+  },
+  "author": "Saksham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakshamAK/react-context-template/issues"
+  },
+  "homepage": "https://github.com/sakshamAK/react-context-template#readme"
 }
