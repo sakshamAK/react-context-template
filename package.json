@@ -1,0 +1,7 @@
+{
+  "name": "react-context-template",
+  "version": "1.0.0",
+  "bin": {
+    "react-context-template": "./index.js"
+  }
+}
